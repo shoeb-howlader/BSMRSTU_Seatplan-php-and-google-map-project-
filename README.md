@@ -1,1 +1,3 @@
-# BSMRSTU_Seatplan-php-and-google-map-project-
+# BSMRSTU_Seatplan( a simple php and-google-map project)
+
+
