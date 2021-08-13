@@ -1,0 +1,80 @@
+body {
+    margin-top: 30px;
+    /*background-color: rgba(190, 231, 220, 0.349);*/
+    background-color: #ece5da;
+    text-align: center;
+   
+}
+
+form {
+    margin: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 20px;
+    
+}
+
+.err {
+    color: red
+}
+.resulter {
+    margin: 5px;
+    padding: 20px;
+    border: 3px solid red;
+    color: red;
+    font-size: large;
+}
+
+.result {
+    margin: 5px;
+    padding: 20px;
+    border: 3px solid green;
+    font-size: large;
+}
+
+
+.map{
+margin: 5px;
+padding: 10px;
+
+}
+label {
+    font-size: larger !important;
+}
+h3 {
+  /* margin: 20px; */
+  font-family: "Paytone One";
+  color: #202020;
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+h3 span {
+  display: block;
+  margin: 11px 0 17px 0;
+  font-size: 80px;
+  line-height: 80px;
+  color: #f1ebe5;
+  text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
+  letter-spacing: -4px;
+}
+.drop-shadow {
+  box-shadow: 7px 7px 20px 0px  rgba(0,0,0,0.3), 40px 40px 10px -40px  rgba(0,0,0,0.8) inset;
+}
+footer{
+
+    margin-top:-5px;
+}
+.fa
+{
+    color:red;
+}
+.about
+{
+    font-family: algerian;
+}
+.disclaimer
+{
+    font-family: arial;
+    color:red;
+}
+/*<p class="bg-primary">...</p><p class="bg-success">...</p><p class="bg-info">...</p><p class="bg-warning">...</p><p class="bg-danger">...</p>*/
