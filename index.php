@@ -231,7 +231,7 @@ while($result=$getdata->fetch_assoc())
     
     
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeoWS0NbQFx03C8CELLRXvwOqZh0NQOc4&callback=myMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key='your API key here'&callback=myMap"></script>
 
     <script>
       function validation() {
